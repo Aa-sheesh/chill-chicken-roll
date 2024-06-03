@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Why the name chill-chicken-roll?
+Umm, to be exact. I was just craving some chilli chicken roll from our college and was searching for a name for the project simulataneously.<br/>
+So, the idea stuck me. When do I meet most random people or my close ones and have a chat with them?<br/>
+**While having chilli-chicken-roll.**
+And hence, the name.<br/> 
+Changed it to chill-chicken-roll as you are supposed to chill and then roll.<br/>
+I know, sounds dumb. But, good name tho.<br/>
